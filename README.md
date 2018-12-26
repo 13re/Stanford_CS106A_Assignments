@@ -1,6 +1,6 @@
 # Stanford_CS106A_Assignments
 
-This repo contains first-attempt working (not optimal) solutions to the assignments for Standford's CS106A "Programming Methodology" online course.
+First-attempt working (not optimal) solutions to the assignments for Standford's CS106A "Programming Methodology" online course.
 
 Course info: https://web.stanford.edu/class/cs106a/
 
